@@ -1,0 +1,81 @@
+vi:
+  static_pages:
+    home:
+      home: Trang chủ
+      san_pham_moi: SẢN PHẨM MỚI
+      lacoste_850: ÁO KHOÁC LAOCSTE SH8601-CCA MEN'S MOTION ERGONOMIC COTTON BLEND ZIP SWEATSHIRT
+      d1: 850,000đ
+      nike_den_1200: BỘ NỈ NIKE TECH FLEECE WINDRUNNER
+      d2: 1,200,000đ
+      burberry_800: ÁO NỈ HOODIE BURBERRY
+      d3: 800,000đ
+      discovery_1600: ÁO KHOÁC DISCOVERY EXPEDITION PIONEERS IN EXPORATION SINCE 1985
+      d4: 1,600,000đ
+      lacoste_800: BALO LACOSTE
+      d5: 800,000đ
+      nike_xt_250: MU NIKE S1ZE HERITAGE86 943092-451 - XANH
+      d6: 250,000đ
+      massimo_900: ÁO KHOÁC MASSIMO DUTTI
+      d7: 900,000đ
+      adidas_480: Quần BB TRACKSUIT BOTTOMS ADIDAS
+      d8: 480,000đ
+      rover_section: Shop thời trang nam online Rover đã khẳng định được sự chuyên nghiệp của mình trong công việc. Quần, áo tại Rover được cập nhật mới liên tục, mỗi mẫu đều có số lượng hàng đầy đủ để cung ứng cho khách hàng bán buôn và bán lẻ. Đội ngũ nhân viên của Rover trẻ trung, năng động và phong cách bán hàng chuyên nghiệp nhiệt tình...Rover Store cam kết bán hàng đúng giá niêm yết, chất lượng đảm bảo, bồi thường gấp đôi nếu có vấn để về chất lượng sản phẩm khi bán cho khách hàng. Shop online Rover luôn đem lại sự hài lòng đến với khách hàng!
+  layouts:
+    header:
+      register: Đăng ký
+      signin: Đăng nhập
+      home: TRANG CHỦ
+      product: Sản phẩm
+      check_out: Kiểm tra
+      quan_ao: QUẦN ÁO
+      ao_thun: Áo thun
+      ao_somi: Áo sơ mi
+      ao_jean: Áo jeans
+      ao_hoodie: Áo hoodie
+      ao_khoac: Áo khoác
+      quan_jean: Quần jeans
+      quan_jogger: Quần jogger
+      quan_kaki: Quần kaki
+      quan_short: Quần short
+      gioi_thieu: GIỚI THIỆU
+      dieukhoandv: Điều khoản dịch vụ
+      huongdandathang: Hướng dẫn đặt hàng
+      huongdansize: Hướng dẫn tìm size
+      phu_kien: PHỤ KIỆN
+      mu: Mũ
+      balo: Balo - Túi xách
+      sip: Sịp
+      vi: Ví
+      day_lung: Dậy lưng
+      sale: SALE
+      sale10: Sale 10%
+      sale20: Sale 20%
+      sale30: Sale 30%
+      sale50: Sale 50%
+      ghmp: Giao hàng miễn phí cho đơn hàng trên 499k
+      giamgia: Giảm giá 5% cho đơn hàng trên 1 triệu
+      outlet: Giảm 10% cho các sản phẩm outlet
+    footer:
+      ve_chung_toi: Về chúng tôi
+      cong_dong: Cộng đồng
+      viec_lam: Việc làm
+      dang_chuyen_hang: Đang chuyển hàng
+      lien_he: Liên hệ chúng tôi
+      cskh: Chăm sóc khách hàng
+      tim_kiem: Tìm kiếm
+      cs_bao_mat: Chính sách bảo mật
+      cam_nang: Cẩm nang
+      van_chuyen: Vận chuyển và giao hàng
+      bst: Bộ sưu tập
+      dich_vu: Dịch vụ của chúng tôi
+      mien_phi_vc: Miễn phí vận chuyển
+      hoan_tra: Hoàn trả miễn phí
+      dieu_khoan: Các điều khoản và điều kiện
+      thong_tin: Thông tin
+      phuong_thuc: Phương thức thanh toán
+      thoi_gian: Thời gian và chi phí vận chuyển
+      tra_lai: Trả lại sản phẩm
+      phuong_thuc_vc: Phương thức vận chuyển
+      su_phu_hop: Sự phù hợp của sản phẩm
+      thiet_ke_web: Thiết kế web bởi Tom Cruise
+      instagram: Instagram

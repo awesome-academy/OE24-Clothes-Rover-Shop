@@ -1,0 +1,92 @@
+<header class="header-section">
+  <div class="container-fluid">
+    <div class="inner-header">
+      <%= link_to image_tag("rover.png", alt: "Rover logo",
+        class: "img2"),"#" %>
+      <div class="header-right">
+        <%= link_to image_tag("search.png", alt: "Search logo",
+          class: "img1"),"#" %>
+        <%= link_to image_tag("man.png", alt: "Man logo",
+          class: "img1"),"#" %>
+        <a href="#">
+          <%= link_to image_tag("bag.png", alt: "Bag logo",
+          class: "img1"),"#" %>
+        </a>
+      </div>
+      <div class="user-access">
+        <a href="#"><%= t(".register") %></a>
+        <a href="#" class="in"><%= t(".signin") %></a>
+      </div>
+      <nav class="main-menu mobile-menu">
+        <ul>
+          <li><a href="./index.html"><%= t(".home") %></a></li>
+          <li><%= link_to t(".gioi_thieu"), "#" %></a>
+            <ul class="sub-menu">
+              <li><%= link_to t(".dieukhoandv"), "#" %></li>
+              <li><%= link_to t(".huongdandathang"), "#" %></li>
+              <li><%= link_to t(".huongdansize"), "#" %></li>
+            </ul>
+          </li>
+          <li><%= link_to t(".quan_ao"), "#" %>
+            <ul class="sub-menu">
+              <li><%= link_to t(".ao_thun"), "#" %></li>
+              <li><%= link_to t(".ao_somi"), "#" %></li>
+              <li><%= link_to t(".ao_jean"), "#" %></li>
+              <li><%= link_to t(".ao_hoodie"), "#" %></li>
+              <li><%= link_to t(".ao_khoac"), "#" %></li>
+              <li><%= link_to t(".quan_jean"), "#" %></li>
+              <li><%= link_to t(".quan_jogger"), "#" %></li>
+              <li><%= link_to t(".quan_kaki"), "#" %></li>
+              <li><%= link_to t(".quan_short"), "#" %></li>
+             </ul>
+          </li>
+          <li><%= link_to t(".phu_kien"), "#" %>
+            <ul class="sub-menu">
+              <li><%= link_to t(".mu"), "#" %></li>
+              <li><%= link_to t(".balo"), "#" %></li>
+              <li><%= link_to t(".sip"), "#" %></li>
+              <li><%= link_to t(".vi"), "#" %></li>
+              <li><%= link_to t(".day_lung"), "#" %></li>
+            </ul>
+          </li>
+          <li><%= link_to t(".sale"), "#" %>
+            <ul class="sub-menu">
+              <li><%= link_to t(".sale10"), "#" %></li>
+              <li><%= link_to t(".sale20"), "#" %></li>
+              <li><%= link_to t(".sale30"), "#" %></li>
+              <li><%= link_to t(".sale50"), "#" %></li>
+            </ul>
+          </li>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>
+<div class="header-info">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-4">
+        <div class="header-item">
+          <%= link_to image_tag("delivery.png", alt: "Delivery logo",
+          class: "rails_image"),"#" %>
+          <p><%= t ".ghmp" %></p>
+        </div>
+      </div>
+      <div class="col-md-4 text-left text-lg-center">
+        <div class="header-item">
+          <%= link_to image_tag("voucher.png", alt: "Voucher logo",
+          class: "rails_image"),"#" %>
+          <p><%= t ".giamgia" %></p>
+        </div>
+      </div>
+      <div class="col-md-4 text-left text-xl-right">
+        <div class="header-item">
+          <%= link_to image_tag("sales.png", alt: "Sales logo",
+          class: "rails_image"),"#" %>
+          <p><%= t ".outlet" %></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
